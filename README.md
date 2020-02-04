@@ -8,4 +8,4 @@ Our mission at 412FR is to #END food waste by preventing viable food from enteri
 I am currently learning Python and QGIS software at CCAC in order to utilize these tools to help end food waste and hunger. 
 
 ## Interests
-Fighting Hunger, playing with dogs, rock 'n' roll
+Fighting Hunger, Playing with Dogs, Rock 'n' Roll
