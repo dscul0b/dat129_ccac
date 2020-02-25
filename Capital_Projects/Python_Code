@@ -1,0 +1,31 @@
+@author: Dan Scullin
+
+1. For this module, I will import a CSV file, and using a JSON interface, I will:
+    a) loop through the csv file to see which projects (proj) match inputed search 
+    paramaters. 
+    
+
+"""
+import csv
+
+
+with open ("Capital_Projects.csv", 'r') as proj:
+    reader = csv.DictReader(proj)
+    for row in reader:
+        if row['area']=="":
+            print(row)
+            log_malformed_list(row)
+            
+#def fiter_area(proj, criteria):
+    #if criteria = True:
+        #return target_list.append(proj)
+    #elif:
+        #return log_malformed_list.append(proj)
+
+#def filter_year (proj, criteria):
+    
+    
+def log_malformed_list (project):
+    with open('log_malformed_list', 'a') as log:
+        log.write(project['id'])
+        log.write('\n')
