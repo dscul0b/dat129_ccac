@@ -1,0 +1,4 @@
+To edit the key for the JSON replace either "fiscal_year", "area", "status", or "neighborhood" 
+with whatever column you want to filter for. 
+
+To change the value, replace the value with whatever you are looking for. 
