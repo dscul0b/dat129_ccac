@@ -1,0 +1,6 @@
+{
+"fiscal_year": [2018],
+"area": ["Engineering and Construction"],
+"status": ["Completed"],
+"neighborhood": ["Bloomfield"]
+}
