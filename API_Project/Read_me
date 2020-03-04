@@ -1,0 +1,15 @@
+Here is my API Project
+
+I used the API available at http://api.dataatwork.org/v1/spec/
+
+It writes a txt file of the results for a search done based on what the URL is.
+
+I tried to figure out how to create a variable in the URL itself to customize it more, but I couldn't figure that out. 
+
+Right now, to search for jobs, the user has to change the url and change the message to match what job they are searching for. 
+
+It does print a nice message telling the user how many jobs are available with that search parameter. 
+
+For instance there are 44 jobs on the API with the term "programmer" in it.
+
+Cool!
