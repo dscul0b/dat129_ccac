@@ -1,0 +1,266 @@
+[
+    {
+        "uuid": "af4f46be3d219621759e49ca6b409529",
+        "suggestion": "Analyst Programmer",
+        "normalized_job_title": "analyst programmer",
+        "parent_uuid": "0b0c94f09f8afa4086c2bf44bd1bbcc4"
+    },
+    {
+        "uuid": "5bda0a22c634afbcdf7f9b4227eaee67",
+        "suggestion": "Business Programmer",
+        "normalized_job_title": "business programmer",
+        "parent_uuid": "0b0c94f09f8afa4086c2bf44bd1bbcc4"
+    },
+    {
+        "uuid": "4b3a95a2858cfdd2e1935376a02bbcbb",
+        "suggestion": "Client Server Programmer",
+        "normalized_job_title": "client server programmer",
+        "parent_uuid": "0b0c94f09f8afa4086c2bf44bd1bbcc4"
+    },
+    {
+        "uuid": "6c85995157990e68bd29fb258962e4d8",
+        "suggestion": "COBOL Programmer (Common Business Oriented Language Programmer)",
+        "normalized_job_title": "cobol programmer common business oriented language programmer",
+        "parent_uuid": "0b0c94f09f8afa4086c2bf44bd1bbcc4"
+    },
+    {
+        "uuid": "b37d123b845bfc7e585a0e009ed5779d",
+        "suggestion": "Computer Game Programmer",
+        "normalized_job_title": "computer game programmer",
+        "parent_uuid": "0b0c94f09f8afa4086c2bf44bd1bbcc4"
+    },
+    {
+        "uuid": "99712264023f2f6c2deb2fae3958e71c",
+        "suggestion": "Engineering and Scientific Programmer",
+        "normalized_job_title": "engineering and scientific programmer",
+        "parent_uuid": "0b0c94f09f8afa4086c2bf44bd1bbcc4"
+    },
+    {
+        "uuid": "c2012b2ace3979ac0a9a6be1fc4362e1",
+        "suggestion": "Engineering Programmer",
+        "normalized_job_title": "engineering programmer",
+        "parent_uuid": "0b0c94f09f8afa4086c2bf44bd1bbcc4"
+    },
+    {
+        "uuid": "d2233e2be95087dd1beabac8ca01ae0a",
+        "suggestion": "Internet Programmer",
+        "normalized_job_title": "internet programmer",
+        "parent_uuid": "0b0c94f09f8afa4086c2bf44bd1bbcc4"
+    },
+    {
+        "uuid": "fdcce9b65d1961bf6bc2f7e9de4c9772",
+        "suggestion": "Mainframe Programmer",
+        "normalized_job_title": "mainframe programmer",
+        "parent_uuid": "0b0c94f09f8afa4086c2bf44bd1bbcc4"
+    },
+    {
+        "uuid": "ab46a8997602f0ff141f506dd29b5863",
+        "suggestion": "Object-Oriented Programmer",
+        "normalized_job_title": "objectoriented programmer",
+        "parent_uuid": "0b0c94f09f8afa4086c2bf44bd1bbcc4"
+    },
+    {
+        "uuid": "32dd21ac4786fdc594bb9a695ffca448",
+        "suggestion": "Operating System Programmer",
+        "normalized_job_title": "operating system programmer",
+        "parent_uuid": "0b0c94f09f8afa4086c2bf44bd1bbcc4"
+    },
+    {
+        "uuid": "0215b4aa606dc83ef2190d8c286c8992",
+        "suggestion": "SAS Programmer",
+        "normalized_job_title": "sas programmer",
+        "parent_uuid": "0b0c94f09f8afa4086c2bf44bd1bbcc4"
+    },
+    {
+        "uuid": "a9f4d9936d1ceaebaf43c217c972a23e",
+        "suggestion": "Software Programmer",
+        "normalized_job_title": "software programmer",
+        "parent_uuid": "0b0c94f09f8afa4086c2bf44bd1bbcc4"
+    },
+    {
+        "uuid": "1fedc76d2f107666c813b615b72c886a",
+        "suggestion": "Website Programmer",
+        "normalized_job_title": "website programmer",
+        "parent_uuid": "0b0c94f09f8afa4086c2bf44bd1bbcc4"
+    },
+    {
+        "uuid": "9d394b09fc748ce39fac2dbdadbd41ad",
+        "suggestion": "Systems Analyst Programmer",
+        "normalized_job_title": "systems analyst programmer",
+        "parent_uuid": "adbc2046a7264152d61d23ecdc1606b3"
+    },
+    {
+        "uuid": "a709017106df22fd8419681c905493b5",
+        "suggestion": "Mainframe Systems Programmer",
+        "normalized_job_title": "mainframe systems programmer",
+        "parent_uuid": "ad7f545d458070129f3ced2d13467813"
+    },
+    {
+        "uuid": "0054a266e49cf8994cd25e4a70c13939",
+        "suggestion": "System Programmer",
+        "normalized_job_title": "system programmer",
+        "parent_uuid": "9f07202082ce5945f125f3472a753789"
+    },
+    {
+        "uuid": "178fa04862a9f746e6f4ae7e3d9ec02f",
+        "suggestion": "Clinical Statistical Programmer",
+        "normalized_job_title": "clinical statistical programmer",
+        "parent_uuid": "0b9dd32a367f4562ec77b993053d1910"
+    },
+    {
+        "uuid": "eded99adf77baf71de896384768befc3",
+        "suggestion": "Computer-Aided Design and Computer-Aided Manufacturing Programmer (CAD/CAM Programmer)",
+        "normalized_job_title": "computeraided design and computeraided manufacturing programmer cadcam programmer",
+        "parent_uuid": "282f8a432164975fa0b465d79ef7472d"
+    },
+    {
+        "uuid": "6450f9239dc8f4191c65481894c4c945",
+        "suggestion": "Programmable Logic Controller Programmer",
+        "normalized_job_title": "programmable logic controller programmer",
+        "parent_uuid": "ad2e27dd6d20548bdcaaf5e852b7e721"
+    },
+    {
+        "uuid": "95bc4b9974333da6ba294c2c98036f7f",
+        "suggestion": "CNC Programmer (Computer Numerical Control Programmer)",
+        "normalized_job_title": "cnc programmer computer numerical control programmer",
+        "parent_uuid": "d232ddfd1ecc881ed30091191acbf43c"
+    },
+    {
+        "uuid": "75825d5c05be610f5e512b47bacc85f6",
+        "suggestion": "Programmable Logic Controller Programmer (PLC Programmer)",
+        "normalized_job_title": "programmable logic controller programmer plc programmer",
+        "parent_uuid": "7cb5792818790eb8c39030aca67e5494"
+    },
+    {
+        "uuid": "3a7574e37f558e7e08a71ef2542f0b43",
+        "suggestion": "Recreation Programmer",
+        "normalized_job_title": "recreation programmer",
+        "parent_uuid": "3f74bd736898781586c6fd0b907ec20b"
+    },
+    {
+        "uuid": "52d0396c178856ae98b2dbc12d661968",
+        "suggestion": "CAD CAM Programmer (Computer-Aided Design Computer-Aided Manufacturing Programmer)",
+        "normalized_job_title": "cad cam programmer computeraided design computeraided manufacturing programmer",
+        "parent_uuid": "6b6e7eda0f21fd2d8e1edf2394523743"
+    },
+    {
+        "uuid": "ca321b9258799b09478bc896204a5946",
+        "suggestion": "CNC Process Control Programmer",
+        "normalized_job_title": "cnc process control programmer",
+        "parent_uuid": "6b6e7eda0f21fd2d8e1edf2394523743"
+    },
+    {
+        "uuid": "9608bb230db461ac18a0bcea56155729",
+        "suggestion": "Metal Numerical Control Programmer",
+        "normalized_job_title": "metal numerical control programmer",
+        "parent_uuid": "6b6e7eda0f21fd2d8e1edf2394523743"
+    },
+    {
+        "uuid": "1dcf9a10df16e2e3e1ba45653efd9f4f",
+        "suggestion": "Metal Numerical Tool Programmer",
+        "normalized_job_title": "metal numerical tool programmer",
+        "parent_uuid": "6b6e7eda0f21fd2d8e1edf2394523743"
+    },
+    {
+        "uuid": "28d6806ca5d93f77855605c6f859db15",
+        "suggestion": "Numerical Control Programmer (NC Programmer)",
+        "normalized_job_title": "numerical control programmer nc programmer",
+        "parent_uuid": "6b6e7eda0f21fd2d8e1edf2394523743"
+    },
+    {
+        "uuid": "57f8516b6b29227e41a6e037b34243b3",
+        "suggestion": "Numerical Control Tool Programmer",
+        "normalized_job_title": "numerical control tool programmer",
+        "parent_uuid": "6b6e7eda0f21fd2d8e1edf2394523743"
+    },
+    {
+        "uuid": "3b345491b576b076d376940ce659c45e",
+        "suggestion": "Numerical Tool Programmer",
+        "normalized_job_title": "numerical tool programmer",
+        "parent_uuid": "6b6e7eda0f21fd2d8e1edf2394523743"
+    },
+    {
+        "uuid": "55df4c8d8d42bacc5938bccca47600e6",
+        "suggestion": "Plastic Numerical Tool and Process Control Programmer",
+        "normalized_job_title": "plastic numerical tool and process control programmer",
+        "parent_uuid": "6b6e7eda0f21fd2d8e1edf2394523743"
+    },
+    {
+        "uuid": "06d8d270a81b62eb6204092cce44091f",
+        "suggestion": "Process Control Programmer",
+        "normalized_job_title": "process control programmer",
+        "parent_uuid": "6b6e7eda0f21fd2d8e1edf2394523743"
+    },
+    {
+        "uuid": "d298cd7ce706c04451641b1ecec19874",
+        "suggestion": "Sheet Metal Computer Numerically Controlled Programmer",
+        "normalized_job_title": "sheet metal computer numerically controlled programmer",
+        "parent_uuid": "6b6e7eda0f21fd2d8e1edf2394523743"
+    },
+    {
+        "uuid": "839f69b3a52c42e7e5c99fb7f8f54b61",
+        "suggestion": "Computer Numerical Control Lathe Programmer (CNC Lathe Programmer)",
+        "normalized_job_title": "computer numerical control lathe programmer cnc lathe programmer",
+        "parent_uuid": "c245133226963e7c736cfe98aa02d4d3"
+    },
+    {
+        "uuid": "e46c420f93648d21d7dc2a7751f0ce6d",
+        "suggestion": "CNC Programmer (Computerized Numerical Control Programmer)",
+        "normalized_job_title": "cnc programmer computerized numerical control programmer",
+        "parent_uuid": "9517129677d5df18c17b9cbe0ac234ca"
+    },
+    {
+        "uuid": "cbb409a9b6aad546509c2d9f5d2a4dee",
+        "suggestion": "Systems Programmer",
+        "normalized_job_title": "systems programmer",
+        "parent_uuid": "0b0c94f09f8afa4086c2bf44bd1bbcc4"
+    },
+    {
+        "uuid": "f9ec591e5bbf8e25d265a3ce7fa6b4d5",
+        "suggestion": "Applications Programmer",
+        "normalized_job_title": "applications programmer",
+        "parent_uuid": "adbc2046a7264152d61d23ecdc1606b3"
+    },
+    {
+        "uuid": "07d079adb4126d590ff8f95a4baa9a25",
+        "suggestion": "Java Programmer",
+        "normalized_job_title": "java programmer",
+        "parent_uuid": "adbc2046a7264152d61d23ecdc1606b3"
+    },
+    {
+        "uuid": "a50d1f4be063829950e6ddb02c91379f",
+        "suggestion": "Database Programmer",
+        "normalized_job_title": "database programmer",
+        "parent_uuid": "b90ca4df5690002377a7b0f1f3d40781"
+    },
+    {
+        "uuid": "28c43b6303e85984bc5301d1ccfe2d20",
+        "suggestion": "Video Game Programmer",
+        "normalized_job_title": "video game programmer",
+        "parent_uuid": "bbbdfc6e22bc020317a39b98b2c4fd7f"
+    },
+    {
+        "uuid": "0e56f15795467bd73c06946b8cea37eb",
+        "suggestion": "Computer Programmer",
+        "normalized_job_title": "computer programmer",
+        "parent_uuid": "0b0c94f09f8afa4086c2bf44bd1bbcc4"
+    },
+    {
+        "uuid": "7660a3389d0b8d25bbe553da9b24c40f",
+        "suggestion": "Web Programmer",
+        "normalized_job_title": "web programmer",
+        "parent_uuid": "0b0c94f09f8afa4086c2bf44bd1bbcc4"
+    },
+    {
+        "uuid": "987c70ecbcd643998ea6bcd3b8868934",
+        "suggestion": "Programmer",
+        "normalized_job_title": "programmer",
+        "parent_uuid": "6b6e7eda0f21fd2d8e1edf2394523743"
+    },
+    {
+        "uuid": "37c949aa01c2a6145c82197e76512713",
+        "suggestion": "Computer Numerical Control Programmer (CNC Programmer)",
+        "normalized_job_title": "computer numerical control programmer cnc programmer",
+        "parent_uuid": "23641a1cc235ca241bc2dbf84375cb4c"
+    }
+]
