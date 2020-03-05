@@ -18,11 +18,11 @@ def url_toJSON(url):
         with open ('apiDict.txt', 'w') as f:
             json.dump(apiDict, f)
         #writes a txt file in the same directory that the program exists in
-        print("There are", len(apiDict), "jobs including the term 'programmer'.")
+        print("There are", len(apiDict), "jobs including the term 'manager'.")
         return apiDict
-
+        #why do you return apiDict
 
 if __name__ == '__main__':
-    url_toJSON('http://api.dataatwork.org/v1/jobs/autocomplete?ends_with="programmer"')
+    url_toJSON('http://api.dataatwork.org/v1/jobs/autocomplete?ends_with="manager"')
 
     
